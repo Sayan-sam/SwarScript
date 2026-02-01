@@ -1,7 +1,7 @@
 [project]
 name = "notation"
 version = "0.1.0"
-description = "Add your description here"
+description = "Indian Classical Music Notation Generator - Streamlit app for generating Swar and Beat notation"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
